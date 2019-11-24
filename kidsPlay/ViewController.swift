@@ -34,8 +34,9 @@ class ViewController: UIViewController {
         
         dragCollectionView.dragDelegate = self
         dropCollectionView.dropDelegate = self
+        print("Swift5 Study")
         
-        //hi 
+        //hi
 
 
     }
